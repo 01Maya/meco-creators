@@ -6,23 +6,6 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Meco - Build Relationships Between Brands and Influencers',
   description: 'The ultimate platform for social media marketing and influencer collaboration. Analytics, engagement tracking, and growth insights in one place.',
-  icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
-  },
 }
 
 export const viewport: Viewport = {
