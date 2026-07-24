@@ -13,3 +13,4 @@ Meco is a fully responsive marketing landing page created for social media agenc
 
 The website follows modern UI/UX principles with elegant gradients, decorative background elements, subtle motion effects, and interactive components that enhance usability while maintaining excellent performance across all devices.
 
+Every section is carefully designed with clean typography, responsive layouts, and eye-catching illustrations to create a professional SaaS-style landing page.
