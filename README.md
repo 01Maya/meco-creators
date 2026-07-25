@@ -24,3 +24,4 @@ Every section is carefully designed with clean typography, responsive layouts, a
 - 🎬 Beautiful Scroll Reveal Animations
 - 🎨 Elegant Hover Effects
 - 🚀 Slide In / Slide Out Animations
+- 💜 Floating Hero Dashboard Cards
