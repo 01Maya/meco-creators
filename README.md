@@ -20,3 +20,4 @@ Every section is carefully designed with clean typography, responsive layouts, a
 
 - 📱 Fully Responsive Design
 - ✨ Smooth Scroll Navigation to Sections
+- 🎯 Active Navigation Highlight
