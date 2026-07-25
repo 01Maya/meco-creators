@@ -22,3 +22,4 @@ Every section is carefully designed with clean typography, responsive layouts, a
 - ✨ Smooth Scroll Navigation to Sections
 - 🎯 Active Navigation Highlight
 - 🎬 Beautiful Scroll Reveal Animations
+- 🎨 Elegant Hover Effects
