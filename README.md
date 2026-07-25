@@ -27,3 +27,4 @@ Every section is carefully designed with clean typography, responsive layouts, a
 - 💜 Floating Hero Dashboard Cards
 - 🖱️ Mouse Spark Click Effect
 - 📊 Animated Analytics Cards
+- 📈 Floating Bar Graph Widget
