@@ -29,3 +29,4 @@ Every section is carefully designed with clean typography, responsive layouts, a
 - 📊 Animated Analytics Cards
 - 📈 Floating Bar Graph Widget
 - 🔄 Smooth Micro Interactions
+- ❓ Animated FAQ Accordion
