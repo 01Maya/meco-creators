@@ -43,3 +43,4 @@ A premium hero section featuring a floating influencer dashboard, animated stati
 Displays marketing services with interactive analytics cards, hover effects, colorful mini charts, and smooth reveal animations.
 
 ### 📈 Features
+Highlights platform capabilities using premium dashboard illustrations, floating UI cards, analytics widgets, and engaging visual storytelling.
