@@ -38,3 +38,5 @@ Every section is carefully designed with clean typography, responsive layouts, a
 
 ### 🏠 Home
 A premium hero section featuring a floating influencer dashboard, animated statistics, social media tags, and engaging call-to-action buttons.
+
+### ⚙️ Services
