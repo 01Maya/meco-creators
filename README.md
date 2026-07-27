@@ -47,3 +47,6 @@ Highlights platform capabilities using premium dashboard illustrations, floating
 
 ### 💬 Testimonials
 Showcases client feedback with an elegant testimonial card, navigation controls, and professional presentation.
+
+### ❓ FAQ
+
