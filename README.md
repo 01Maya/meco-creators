@@ -49,4 +49,4 @@ Highlights platform capabilities using premium dashboard illustrations, floating
 Showcases client feedback with an elegant testimonial card, navigation controls, and professional presentation.
 
 ### ❓ FAQ
-
+Interactive accordion containing frequently asked questions with smooth open/close animations.
