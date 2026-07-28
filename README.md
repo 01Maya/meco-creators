@@ -57,5 +57,5 @@ Responsive contact section with contact details, business information, and a mod
 ### 🚀 CTA
 A visually engaging newsletter subscription section encouraging users to stay updated with the latest news.
 
-
+### 🦶 Footer
 
