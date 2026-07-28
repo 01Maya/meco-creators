@@ -58,4 +58,5 @@ Responsive contact section with contact details, business information, and a mod
 A visually engaging newsletter subscription section encouraging users to stay updated with the latest news.
 
 ### 🦶 Footer
+Minimal footer containing navigation links, quick links, social icons, and copyright information.
 
