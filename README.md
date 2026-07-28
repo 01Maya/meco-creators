@@ -55,5 +55,7 @@ Interactive accordion containing frequently asked questions with smooth open/clo
 Responsive contact section with contact details, business information, and a modern inquiry form.
 
 ### 🚀 CTA
+A visually engaging newsletter subscription section encouraging users to stay updated with the latest news.
+
 
 
