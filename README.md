@@ -52,5 +52,5 @@ Showcases client feedback with an elegant testimonial card, navigation controls,
 Interactive accordion containing frequently asked questions with smooth open/close animations.
 
 ### 📞 Contact
-
+Responsive contact section with contact details, business information, and a modern inquiry form.
 
