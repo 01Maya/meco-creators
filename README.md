@@ -50,3 +50,7 @@ Showcases client feedback with an elegant testimonial card, navigation controls,
 
 ### ❓ FAQ
 Interactive accordion containing frequently asked questions with smooth open/close animations.
+
+### 📞 Contact
+
+
