@@ -61,3 +61,6 @@ A visually engaging newsletter subscription section encouraging users to stay up
 Minimal footer containing navigation links, quick links, social icons, and copyright information.
 
 ---
+
+# 📸 Preview
+
