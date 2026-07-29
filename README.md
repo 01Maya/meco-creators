@@ -62,8 +62,15 @@ Minimal footer containing navigation links, quick links, social icons, and copyr
 
 ---
 
+# 🛠️ Tech Stack
+
+- **Next.js**
+
+---
+
 # 📸 Preview
 
 https://meco-creators.vercel.app/
 
 ---
+
