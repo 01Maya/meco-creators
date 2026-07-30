@@ -66,7 +66,7 @@ Minimal footer containing navigation links, quick links, social icons, and copyr
 
 - Next.js
 - Tailwind CSS
-- **Framer Motion**
+- Framer Motion
 - **Shadcn/ui**
 
 
