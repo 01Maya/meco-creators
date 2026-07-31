@@ -103,3 +103,8 @@ npm install
 ```bash
 npm run dev
 ```
+### Open in Browser
+
+```text
+http://localhost:3000
+```
