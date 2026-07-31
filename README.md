@@ -85,3 +85,9 @@ https://meco-creators.vercel.app/
 ```bash
 git clone https://github.com/your-username/meco-landing-page.git
 ```
+
+### Navigate to Project
+
+```bash
+cd meco-landing-page
+```
