@@ -91,3 +91,9 @@ git clone https://github.com/your-username/meco-landing-page.git
 ```bash
 cd meco-landing-page
 ```
+
+### Install Dependencies
+
+```bash
+npm install
+```
