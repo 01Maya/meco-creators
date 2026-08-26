@@ -8,7 +8,7 @@ This landing page combines modern design principles with beautiful motion effect
 
 ## 📖 Description
 
-Meco is a fully responsive marketing landing page created for social media agencies, influencers, and digital marketing businesses. It features premium UI elements, smooth animations, floating dashboard cards, and engaging visual effects to provide an immersive browsing experience.
+💜 Meco is a fully responsive marketing landing page created for social media agencies, influencers, and digital marketing businesses. It features premium UI elements, smooth animations, floating dashboard cards, and engaging visual effects to provide an immersive browsing experience.
 
 The website follows modern UI/UX principles with elegant gradients, decorative background elements, subtle motion effects, and interactive components that enhance usability while maintaining excellent performance across all devices.
 
