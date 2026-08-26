@@ -5,7 +5,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Meco - Build Relationships Between Brands and Influencers',
-  description: 'The ultimate platform for social media marketing and influencer collaboration. Analytics, engagement tracking, and growth insights in one place.',
+  description: 'The ultimate platform for social media marketing and influencer collaboration. Analytics, engagement tracking, and growth insights in one place 🚀',
 }
 
 export const viewport: Viewport = {
